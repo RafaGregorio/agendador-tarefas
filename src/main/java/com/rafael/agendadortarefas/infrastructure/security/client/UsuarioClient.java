@@ -1,4 +1,4 @@
-package com.rafael.agendadortarefas.infrastructure.client;
+package com.rafael.agendadortarefas.infrastructure.security.client;
 
 import com.rafael.agendadortarefas.business.dto.UsuarioDTO;
 import org.springframework.cloud.openfeign.FeignClient;
